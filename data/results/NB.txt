@@ -1,0 +1,1265 @@
+
+Naive Bayes Classifier
+
+                     Class
+Attribute       article_13  article_6
+                     (0.5)      (0.5)
+======================================
+list
+  mean               0.6832       0.07
+  std. dev.          0.4652     0.2551
+  weight sum            101        100
+  precision               1          1
+
+upload
+  mean               0.0099       0.42
+  std. dev.          0.1667     0.4936
+  weight sum            101        100
+  precision               1          1
+
+segments
+  mean               0.3663          0
+  std. dev.          0.4818     0.1667
+  weight sum            101        100
+  precision               1          1
+
+lists
+  mean               0.3366          0
+  std. dev.          0.4726     0.1667
+  weight sum            101        100
+  precision               1          1
+
+groups
+  mean               0.3366       0.01
+  std. dev.          0.4726     0.1667
+  weight sum            101        100
+  precision               1          1
+
+file
+  mean               0.0297       0.39
+  std. dev.          0.1698     0.4877
+  weight sum            101        100
+  precision               1          1
+
+segment
+  mean               0.2574          0
+  std. dev.          0.4372     0.1667
+  weight sum            101        100
+  precision               1          1
+
+images
+  mean                    0       0.24
+  std. dev.          0.1667     0.4271
+  weight sum            101        100
+  precision               1          1
+
+image
+  mean                    0       0.22
+  std. dev.          0.1667     0.4142
+  weight sum            101        100
+  precision               1          1
+
+pdf
+  mean                    0        0.2
+  std. dev.          0.1667        0.4
+  weight sum            101        100
+  precision               1          1
+
+subscribers
+  mean               0.2673       0.02
+  std. dev.          0.4426     0.1667
+  weight sum            101        100
+  precision               1          1
+
+files
+  mean                    0       0.19
+  std. dev.          0.1667     0.3923
+  weight sum            101        100
+  precision               1          1
+
+they
+  mean               0.2772       0.03
+  std. dev.          0.4476     0.1706
+  weight sum            101        100
+  precision               1          1
+
+emails
+  mean               0.2673       0.03
+  std. dev.          0.4426     0.1706
+  weight sum            101        100
+  precision               1          1
+
+group
+  mean               0.2376       0.02
+  std. dev.          0.4256     0.1667
+  weight sum            101        100
+  precision               1          1
+
+link
+  mean               0.0099       0.19
+  std. dev.          0.1667     0.3923
+  weight sum            101        100
+  precision               1          1
+
+people
+  mean               0.2178       0.02
+  std. dev.          0.4128     0.1667
+  weight sum            101        100
+  precision               1          1
+
+computer
+  mean                    0       0.14
+  std. dev.          0.1667      0.347
+  weight sum            101        100
+  precision               1          1
+
+want
+  mean               0.3366       0.09
+  std. dev.          0.4726     0.2862
+  weight sum            101        100
+  precision               1          1
+
+understand
+  mean               0.1287          0
+  std. dev.          0.3349     0.1667
+  weight sum            101        100
+  precision               1          1
+
+difference
+  mean               0.1287          0
+  std. dev.          0.3349     0.1667
+  weight sum            101        100
+  precision               1          1
+
+don&#039
+  mean                0.198       0.02
+  std. dev.          0.3985     0.1667
+  weight sum            101        100
+  precision               1          1
+
+changed
+  mean                    0       0.12
+  std. dev.          0.1667      0.325
+  weight sum            101        100
+  precision               1          1
+
+we
+  mean                0.396       0.14
+  std. dev.          0.4891      0.347
+  weight sum            101        100
+  precision               1          1
+
+specific
+  mean               0.1188          0
+  std. dev.          0.3236     0.1667
+  weight sum            101        100
+  precision               1          1
+
+about
+  mean               0.2475       0.05
+  std. dev.          0.4316     0.2179
+  weight sum            101        100
+  precision               1          1
+
+each
+  mean                0.198       0.03
+  std. dev.          0.3985     0.1706
+  weight sum            101        100
+  precision               1          1
+
+manager
+  mean               0.0198       0.17
+  std. dev.          0.1667     0.3756
+  weight sum            101        100
+  precision               1          1
+
+our
+  mean               0.3267       0.11
+  std. dev.           0.469     0.3129
+  weight sum            101        100
+  precision               1          1
+
+contacts
+  mean                0.099          0
+  std. dev.          0.2987     0.1667
+  weight sum            101        100
+  precision               1          1
+
+two
+  mean               0.1386       0.01
+  std. dev.          0.3455     0.1667
+  weight sum            101        100
+  precision               1          1
+
+them
+  mean               0.2277       0.05
+  std. dev.          0.4194     0.2179
+  weight sum            101        100
+  precision               1          1
+
+one
+  mean               0.3762       0.15
+  std. dev.          0.4844     0.3571
+  weight sum            101        100
+  precision               1          1
+
+some
+  mean               0.2574       0.07
+  std. dev.          0.4372     0.2551
+  weight sum            101        100
+  precision               1          1
+
+pictures
+  mean                    0       0.09
+  std. dev.          0.1667     0.2862
+  weight sum            101        100
+  precision               1          1
+
+insert
+  mean                    0       0.09
+  std. dev.          0.1667     0.2862
+  weight sum            101        100
+  precision               1          1
+
+1
+  mean               0.1782       0.03
+  std. dev.          0.3827     0.1706
+  weight sum            101        100
+  precision               1          1
+
+different
+  mean                0.198       0.04
+  std. dev.          0.3985      0.196
+  weight sum            101        100
+  precision               1          1
+
+master
+  mean               0.0891          0
+  std. dev.          0.2849     0.1667
+  weight sum            101        100
+  precision               1          1
+
+being
+  mean               0.0891          0
+  std. dev.          0.2849     0.1667
+  weight sum            101        100
+  precision               1          1
+
+set
+  mean               0.1485       0.02
+  std. dev.          0.3556     0.1667
+  weight sum            101        100
+  precision               1          1
+
+today
+  mean               0.0099       0.12
+  std. dev.          0.1667      0.325
+  weight sum            101        100
+  precision               1          1
+
+template
+  mean               0.0099       0.12
+  std. dev.          0.1667      0.325
+  weight sum            101        100
+  precision               1          1
+
+picture
+  mean                    0       0.08
+  std. dev.          0.1667     0.2713
+  weight sum            101        100
+  precision               1          1
+
+which
+  mean               0.2376       0.07
+  std. dev.          0.4256     0.2551
+  weight sum            101        100
+  precision               1          1
+
+names
+  mean               0.0792          0
+  std. dev.          0.2701     0.1667
+  weight sum            101        100
+  precision               1          1
+
+give
+  mean               0.0792          0
+  std. dev.          0.2701     0.1667
+  weight sum            101        100
+  precision               1          1
+
+mailing
+  mean               0.0792          0
+  std. dev.          0.2701     0.1667
+  weight sum            101        100
+  precision               1          1
+
+create
+  mean               0.2475       0.08
+  std. dev.          0.4316     0.2713
+  weight sum            101        100
+  precision               1          1
+
+browse
+  mean                    0       0.07
+  std. dev.          0.1667     0.2551
+  weight sum            101        100
+  precision               1          1
+
+unable
+  mean                    0       0.07
+  std. dev.          0.1667     0.2551
+  weight sum            101        100
+  precision               1          1
+
+addresses
+  mean               0.0693          0
+  std. dev.           0.254     0.1667
+  weight sum            101        100
+  precision               1          1
+
+put
+  mean               0.0693          0
+  std. dev.           0.254     0.1667
+  weight sum            101        100
+  precision               1          1
+
+who
+  mean               0.1287       0.02
+  std. dev.          0.3349     0.1667
+  weight sum            101        100
+  precision               1          1
+
+send
+  mean               0.3564       0.17
+  std. dev.          0.4789     0.3756
+  weight sum            101        100
+  precision               1          1
+
+are
+  mean               0.3564       0.17
+  std. dev.          0.4789     0.3756
+  weight sum            101        100
+  precision               1          1
+
+between
+  mean                0.099       0.01
+  std. dev.          0.2987     0.1667
+  weight sum            101        100
+  precision               1          1
+
+main
+  mean                0.099       0.01
+  std. dev.          0.2987     0.1667
+  weight sum            101        100
+  precision               1          1
+
+up
+  mean               0.2871       0.12
+  std. dev.          0.4524      0.325
+  weight sum            101        100
+  precision               1          1
+
+would
+  mean               0.3267       0.15
+  std. dev.           0.469     0.3571
+  weight sum            101        100
+  precision               1          1
+
+word
+  mean                    0       0.06
+  std. dev.          0.1667     0.2375
+  weight sum            101        100
+  precision               1          1
+
+photos
+  mean                    0       0.06
+  std. dev.          0.1667     0.2375
+  weight sum            101        100
+  precision               1          1
+
+jpeg
+  mean                    0       0.06
+  std. dev.          0.1667     0.2375
+  weight sum            101        100
+  precision               1          1
+
+drag
+  mean                    0       0.06
+  std. dev.          0.1667     0.2375
+  weight sum            101        100
+  precision               1          1
+
+save
+  mean                    0       0.06
+  std. dev.          0.1667     0.2375
+  weight sum            101        100
+  precision               1          1
+
+might
+  mean               0.0594          0
+  std. dev.          0.2364     0.1667
+  weight sum            101        100
+  precision               1          1
+
+month
+  mean               0.0594          0
+  std. dev.          0.2364     0.1667
+  weight sum            101        100
+  precision               1          1
+
+targeted
+  mean               0.0594          0
+  std. dev.          0.2364     0.1667
+  weight sum            101        100
+  precision               1          1
+
+please
+  mean               0.1584       0.33
+  std. dev.          0.3651     0.4702
+  weight sum            101        100
+  precision               1          1
+
+uploading
+  mean               0.0099       0.09
+  std. dev.          0.1667     0.2862
+  weight sum            101        100
+  precision               1          1
+
+s
+  mean               0.2178       0.08
+  std. dev.          0.4128     0.2713
+  weight sum            101        100
+  precision               1          1
+
+added
+  mean               0.0891       0.01
+  std. dev.          0.2849     0.1667
+  weight sum            101        100
+  precision               1          1
+
+their
+  mean               0.0891       0.01
+  std. dev.          0.2849     0.1667
+  weight sum            101        100
+  precision               1          1
+
+multiple
+  mean               0.0891       0.01
+  std. dev.          0.2849     0.1667
+  weight sum            101        100
+  precision               1          1
+
+before
+  mean               0.0297       0.13
+  std. dev.          0.1698     0.3363
+  weight sum            101        100
+  precision               1          1
+
+uploaded
+  mean               0.0198       0.11
+  std. dev.          0.1667     0.3129
+  weight sum            101        100
+  precision               1          1
+
+2
+  mean                0.198       0.07
+  std. dev.          0.3985     0.2551
+  weight sum            101        100
+  precision               1          1
+
+these
+  mean               0.1089       0.02
+  std. dev.          0.3115     0.1667
+  weight sum            101        100
+  precision               1          1
+
+must
+  mean                    0       0.05
+  std. dev.          0.1667     0.2179
+  weight sum            101        100
+  precision               1          1
+
+worked
+  mean                    0       0.05
+  std. dev.          0.1667     0.2179
+  weight sum            101        100
+  precision               1          1
+
+past
+  mean                    0       0.05
+  std. dev.          0.1667     0.2179
+  weight sum            101        100
+  precision               1          1
+
+reason
+  mean                    0       0.05
+  std. dev.          0.1667     0.2179
+  weight sum            101        100
+  precision               1          1
+
+fields
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+subscribed
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+various
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+move
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+segmentation
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+events
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+base
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+answer
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+separated
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+members
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+understanding
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+based
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+got
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+choose
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+everyone
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+constant
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+current
+  mean               0.0495          0
+  std. dev.          0.2169     0.1667
+  weight sum            101        100
+  precision               1          1
+
+be
+  mean               0.4455       0.27
+  std. dev.           0.497      0.444
+  weight sum            101        100
+  precision               1          1
+
+do
+  mean               0.4653       0.29
+  std. dev.          0.4988     0.4538
+  weight sum            101        100
+  precision               1          1
+
+button
+  mean               0.0099       0.08
+  std. dev.          0.1667     0.2713
+  weight sum            101        100
+  precision               1          1
+
+form
+  mean               0.0792       0.01
+  std. dev.          0.2701     0.1667
+  weight sum            101        100
+  precision               1          1
+
+subscriber
+  mean               0.0792       0.01
+  std. dev.          0.2701     0.1667
+  weight sum            101        100
+  precision               1          1
+
+those
+  mean               0.0792       0.01
+  std. dev.          0.2701     0.1667
+  weight sum            101        100
+  precision               1          1
+
+separate
+  mean               0.0792       0.01
+  std. dev.          0.2701     0.1667
+  weight sum            101        100
+  precision               1          1
+
+page
+  mean               0.0198        0.1
+  std. dev.          0.1667        0.3
+  weight sum            101        100
+  precision               1          1
+
+contact
+  mean               0.1188       0.03
+  std. dev.          0.3236     0.1706
+  weight sum            101        100
+  precision               1          1
+
+appear
+  mean                    0       0.04
+  std. dev.          0.1667      0.196
+  weight sum            101        100
+  precision               1          1
+
+happens
+  mean                    0       0.04
+  std. dev.          0.1667      0.196
+  weight sum            101        100
+  precision               1          1
+
+au
+  mean                    0       0.04
+  std. dev.          0.1667      0.196
+  weight sum            101        100
+  precision               1          1
+
+yesterday
+  mean                    0       0.04
+  std. dev.          0.1667      0.196
+  weight sum            101        100
+  precision               1          1
+
+design
+  mean                    0       0.04
+  std. dev.          0.1667      0.196
+  weight sum            101        100
+  precision               1          1
+
+attached
+  mean                    0       0.04
+  std. dev.          0.1667      0.196
+  weight sum            101        100
+  precision               1          1
+
+attachment
+  mean                    0       0.04
+  std. dev.          0.1667      0.196
+  weight sum            101        100
+  precision               1          1
+
+available
+  mean                    0       0.04
+  std. dev.          0.1667      0.196
+  weight sum            101        100
+  precision               1          1
+
+pc
+  mean                    0       0.04
+  std. dev.          0.1667      0.196
+  weight sum            101        100
+  precision               1          1
+
+come
+  mean                    0       0.04
+  std. dev.          0.1667      0.196
+  weight sum            101        100
+  precision               1          1
+
+noticed
+  mean                    0       0.04
+  std. dev.          0.1667      0.196
+  weight sum            101        100
+  precision               1          1
+
+needs
+  mean                    0       0.04
+  std. dev.          0.1667      0.196
+  weight sum            101        100
+  precision               1          1
+
+purpose
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+speak
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+large
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+special
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+field
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+clear
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+called
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+folks
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+around
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+split
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+check
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+manually
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+categories
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+subset
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+remove
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+subscribe
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+organize
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+store
+  mean               0.0396          0
+  std. dev.           0.195     0.1667
+  weight sum            101        100
+  precision               1          1
+
+deadline
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+service
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+cant
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+1300
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+recipient
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+load
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+server
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+html
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+format
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+icon
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+anymore
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+gallery
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+australia
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+normal
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+f
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+attach
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+difficulty
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+usual
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+liability
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+linked
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+photo
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+pretty
+  mean                    0       0.03
+  std. dev.          0.1667     0.1706
+  weight sum            101        100
+  precision               1          1
+
+break
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+sometimes
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+manage
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+merged
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+static
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+issues
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+recipients
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+csv
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+general
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+whole
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+criteria
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+entitled
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+far
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+subscription
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+mess
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+idea
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+setting
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+moving
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+opt-in
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+interest
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+they&#039
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+thinking
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+switching
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+auto
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+attendees
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+switch
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+target
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+hey
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+ticket
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+rest
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+confused
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+hope
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+ll
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+login
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+greatly
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+unsubscribe
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+combine
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+helpful
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+unsubscribed
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+privacy
+  mean               0.0297          0
+  std. dev.          0.1698     0.1667
+  weight sum            101        100
+  precision               1          1
+
+
+
+Time taken to build model: 0.11 seconds
+Time taken to test model on training data: 0.14 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         188               93.5323 %
+Incorrectly Classified Instances        13                6.4677 %
+Kappa statistic                          0.8707
+Mean absolute error                      0.0676
+Root mean squared error                  0.2469
+Relative absolute error                 13.5147 %
+Root relative squared error             49.3778 %
+Total Number of Instances              201     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.921     0.05       0.949     0.921     0.935      0.991    article_13
+                 0.95      0.079      0.922     0.95      0.936      0.991    article_6
+Weighted Avg.    0.935     0.065      0.936     0.935     0.935      0.991
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 93  8 |  a = article_13
+  5 95 |  b = article_6
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          46               97.8723 %
+Incorrectly Classified Instances         1                2.1277 %
+Kappa statistic                          0.9533
+Mean absolute error                      0.0334
+Root mean squared error                  0.1521
+Relative absolute error                  6.6939 %
+Root relative squared error             30.4722 %
+Total Number of Instances               47     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.968     0          1         0.968     0.984      0.996    article_13
+                 1         0.032      0.941     1         0.97       0.996    article_6
+Weighted Avg.    0.979     0.011      0.98      0.979     0.979      0.996
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 30  1 |  a = article_13
+  0 16 |  b = article_6
+

@@ -1,0 +1,221 @@
+
+SMO
+
+Kernel used:
+  Linear Kernel: K(x,y) = <x,y>
+
+Classifier for classes: article_13, article_6
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.7129 * (normalized) list
+ +       0.5412 * (normalized) upload
+ +      -1.1358 * (normalized) segments
+ +      -0.5779 * (normalized) lists
+ +      -0.2132 * (normalized) groups
+ +       0.3759 * (normalized) file
+ +      -1.0236 * (normalized) segment
+ +       0.6541 * (normalized) images
+ +       0.6248 * (normalized) image
+ +       0.9277 * (normalized) pdf
+ +      -0.6975 * (normalized) subscribers
+ +       0.4972 * (normalized) files
+ +      -0.4699 * (normalized) they
+ +      -0.3801 * (normalized) emails
+ +      -0.2369 * (normalized) group
+ +       0.3485 * (normalized) link
+ +      -0.2356 * (normalized) people
+ +       0.3742 * (normalized) computer
+ +       0.0346 * (normalized) want
+ +      -0.1212 * (normalized) understand
+ +      -0.1578 * (normalized) difference
+ +      -0.3487 * (normalized) don&#039
+ +       0.0687 * (normalized) changed
+ +       0.2196 * (normalized) we
+ +      -0.022  * (normalized) specific
+ +       0.023  * (normalized) about
+ +      -0.1095 * (normalized) each
+ +      -0.0691 * (normalized) manager
+ +      -0.0368 * (normalized) our
+ +      -0.2917 * (normalized) contacts
+ +      -0.4001 * (normalized) two
+ +      -0.3866 * (normalized) them
+ +       0.0998 * (normalized) one
+ +      -0.839  * (normalized) some
+ +       0.3206 * (normalized) pictures
+ +       0.0687 * (normalized) insert
+ +      -0.0435 * (normalized) 1
+ +      -0.1554 * (normalized) different
+ +      -0.2791 * (normalized) being
+ +       0.132  * (normalized) set
+ +      -0.0255 * (normalized) today
+ +       0.4686 * (normalized) template
+ +       0      * (normalized) picture
+ +       0.4519 * (normalized) which
+ +      -0.3819 * (normalized) names
+ +      -0.6728 * (normalized) give
+ +       0      * (normalized) mailing
+ +      -0.0232 * (normalized) create
+ +       0.1463 * (normalized) browse
+ +       0.1123 * (normalized) unable
+ +      -0.2103 * (normalized) addresses
+ +      -0.3452 * (normalized) put
+ +      -0.4412 * (normalized) who
+ +       0.1564 * (normalized) send
+ +      -0.2408 * (normalized) are
+ +      -0.1578 * (normalized) between
+ +      -0.022  * (normalized) main
+ +      -0.3177 * (normalized) up
+ +       0.2143 * (normalized) would
+ +       0.2757 * (normalized) word
+ +       0.0481 * (normalized) photos
+ +       0.1463 * (normalized) drag
+ +       0.2269 * (normalized) save
+ +       0      * (normalized) month
+ +       0      * (normalized) targeted
+ +      -0.0223 * (normalized) please
+ +       0.0965 * (normalized) uploading
+ +       0.0949 * (normalized) s
+ +       0.8284 * (normalized) added
+ +      -0.0521 * (normalized) their
+ +       0      * (normalized) multiple
+ +       0.1468 * (normalized) before
+ +       0.4339 * (normalized) uploaded
+ +       0.0535 * (normalized) 2
+ +       0.0487 * (normalized) these
+ +       0.2021 * (normalized) must
+ +       0.0982 * (normalized) worked
+ +       0.4214 * (normalized) past
+ +       0.1635 * (normalized) reason
+ +      -0.2709 * (normalized) fields
+ +      -0.4308 * (normalized) subscribed
+ +       0      * (normalized) move
+ +      -0.022  * (normalized) segmentation
+ +      -0.2673 * (normalized) base
+ +      -0.0978 * (normalized) answer
+ +      -0.2103 * (normalized) members
+ +       0      * (normalized) based
+ +      -0.022  * (normalized) everyone
+ +      -0.6335 * (normalized) constant
+ +      -0.0931 * (normalized) current
+ +       0.0243 * (normalized) be
+ +       0.2168 * (normalized) do
+ +      -0.2496 * (normalized) button
+ +      -0.1707 * (normalized) form
+ +      -0.6323 * (normalized) subscriber
+ +      -0.3394 * (normalized) those
+ +      -0.1512 * (normalized) separate
+ +       0.4252 * (normalized) page
+ +      -0.2483 * (normalized) contact
+ +       0      * (normalized) appear
+ +       0.1154 * (normalized) au
+ +       0.3069 * (normalized) design
+ +       0.1154 * (normalized) attached
+ +       0      * (normalized) attachment
+ +       0.2757 * (normalized) available
+ +       0.1994 * (normalized) pc
+ +       0.0481 * (normalized) come
+ +       0.0481 * (normalized) noticed
+ +       0.0626 * (normalized) needs
+ +      -0.2103 * (normalized) purpose
+ +      -0.1358 * (normalized) speak
+ +      -0.3452 * (normalized) special
+ +      -0.0978 * (normalized) field
+ +      -0.0561 * (normalized) clear
+ +      -0.1716 * (normalized) called
+ +       0      * (normalized) manually
+ +      -0.7165 * (normalized) organize
+ +       0.0687 * (normalized) deadline
+ +       0.1154 * (normalized) recipient
+ +       0.2757 * (normalized) server
+ +       0.1591 * (normalized) html
+ +       0.0525 * (normalized) format
+ +       0.0438 * (normalized) anymore
+ +       0      * (normalized) gallery
+ +       0.1154 * (normalized) f
+ +       0.2856 * (normalized) attach
+ +       0.0525 * (normalized) difficulty
+ +       0.1154 * (normalized) liability
+ +       0.1154 * (normalized) linked
+ +       0.5143 * (normalized) photo
+ +       0.1551 * (normalized) pretty
+ +      -0.1716 * (normalized) sometimes
+ +      -0.307  * (normalized) issues
+ +      -0.9044 * (normalized) recipients
+ +      -0.0236 * (normalized) far
+ +      -0.0561 * (normalized) subscription
+ +      -0.6261 * (normalized) setting
+ +      -0.6335 * (normalized) moving
+ +      -0.0931 * (normalized) opt-in
+ +      -0.022  * (normalized) interest
+ +      -0.0992 * (normalized) thinking
+ +      -0.307  * (normalized) ticket
+ +      -0.3478 * (normalized) rest
+ +      -0.0561 * (normalized) confused
+ +      -0.0894 * (normalized) login
+ +      -0.2673 * (normalized) unsubscribe
+ +      -0.0894 * (normalized) privacy
+ +       0.3447
+
+Number of kernel evaluations: 7897 (90.894% cached)
+
+
+
+Time taken to build model: 0.13 seconds
+Time taken to test model on training data: 0.04 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         198               98.5075 %
+Incorrectly Classified Instances         3                1.4925 %
+Kappa statistic                          0.9701
+Mean absolute error                      0.0149
+Root mean squared error                  0.1222
+Relative absolute error                  2.9851 %
+Root relative squared error             24.4342 %
+Total Number of Instances              201     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.98      0.01       0.99      0.98      0.985      0.985    article_13
+                 0.99      0.02       0.98      0.99      0.985      0.985    article_6
+Weighted Avg.    0.985     0.015      0.985     0.985     0.985      0.985
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 99  2 |  a = article_13
+  1 99 |  b = article_6
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          45               95.7447 %
+Incorrectly Classified Instances         2                4.2553 %
+Kappa statistic                          0.9052
+Mean absolute error                      0.0426
+Root mean squared error                  0.2063
+Relative absolute error                  8.524  %
+Root relative squared error             41.3214 %
+Total Number of Instances               47     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.968     0.063      0.968     0.968     0.968      0.953    article_13
+                 0.938     0.032      0.938     0.938     0.938      0.953    article_6
+Weighted Avg.    0.957     0.052      0.957     0.957     0.957      0.953
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 30  1 |  a = article_13
+  1 15 |  b = article_6
+

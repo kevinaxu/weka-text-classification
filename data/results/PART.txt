@@ -1,0 +1,119 @@
+
+PART decision list
+------------------
+
+list > 0 AND
+uploaded <= 0 AND
+segments > 0: article_13 (27.0)
+
+lists <= 0 AND
+segment <= 0 AND
+list <= 0 AND
+upload <= 0 AND
+segments <= 0 AND
+our <= 0 AND
+who <= 0 AND
+would <= 0: article_6 (46.0/2.0)
+
+upload > 0: article_6 (42.0)
+
+lists > 0: article_13 (22.0)
+
+segment > 0: article_13 (12.0)
+
+pdf <= 0 AND
+template <= 0 AND
+subscribers > 0: article_13 (8.0)
+
+pdf <= 0 AND
+template <= 0 AND
+groups <= 0 AND
+create <= 0 AND
+don&#039 <= 0 AND
+contacts <= 0 AND
+send <= 0 AND
+them <= 0 AND
+list <= 0: article_13 (7.0/1.0)
+
+pdf <= 0 AND
+template <= 0 AND
+groups > 0: article_13 (7.0)
+
+pdf <= 0 AND
+template <= 0 AND
+create > 0: article_13 (5.0)
+
+don&#039 <= 0 AND
+contacts <= 0 AND
+set <= 0 AND
+would > 0: article_6 (8.0)
+
+our > 0: article_13 (5.0)
+
+them <= 0 AND
+want <= 0 AND
+do <= 0: article_13 (4.0/1.0)
+
+them <= 0: article_6 (6.0/2.0)
+
+: article_13 (2.0)
+
+Number of Rules  : 	14
+
+
+Time taken to build model: 0.33 seconds
+Time taken to test model on training data: 0.02 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         195               97.0149 %
+Incorrectly Classified Instances         6                2.9851 %
+Kappa statistic                          0.9403
+Mean absolute error                      0.0483
+Root mean squared error                  0.1554
+Relative absolute error                  9.659  %
+Root relative squared error             31.0789 %
+Total Number of Instances              201     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.96      0.02       0.98      0.96      0.97       0.993    article_13
+                 0.98      0.04       0.961     0.98      0.97       0.993    article_6
+Weighted Avg.    0.97      0.03       0.97      0.97      0.97       0.993
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 97  4 |  a = article_13
+  2 98 |  b = article_6
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          40               85.1064 %
+Incorrectly Classified Instances         7               14.8936 %
+Kappa statistic                          0.6827
+Mean absolute error                      0.1395
+Root mean squared error                  0.3499
+Relative absolute error                 27.937  %
+Root relative squared error             70.0945 %
+Total Number of Instances               47     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.839     0.125      0.929     0.839     0.881      0.927    article_13
+                 0.875     0.161      0.737     0.875     0.8        0.927    article_6
+Weighted Avg.    0.851     0.137      0.863     0.851     0.854      0.927
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 26  5 |  a = article_13
+  2 14 |  b = article_6
+

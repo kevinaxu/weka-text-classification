@@ -1,0 +1,63 @@
+
+Options: -K 1 
+
+IB1 instance-based classifier
+using 1 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0.06 seconds
+Time taken to test model on training data: 0.1 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         199               99.005  %
+Incorrectly Classified Instances         2                0.995  %
+Kappa statistic                          0.9801
+Mean absolute error                      0.018 
+Root mean squared error                  0.0816
+Relative absolute error                  3.6017 %
+Root relative squared error             16.3181 %
+Total Number of Instances              201     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.99      0.01       0.99      0.99      0.99       ?        article_13
+                 0.99      0.01       0.99      0.99      0.99       ?        article_6
+Weighted Avg.    0.99      0.01       0.99      0.99      0.99       0    
+
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 100   1 |   a = article_13
+   1  99 |   b = article_6
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          42               89.3617 %
+Incorrectly Classified Instances         5               10.6383 %
+Kappa statistic                          0.7734
+Mean absolute error                      0.1449
+Root mean squared error                  0.3071
+Relative absolute error                 29.0158 %
+Root relative squared error             61.5147 %
+Total Number of Instances               47     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.871     0.063      0.964     0.871     0.915      0.923    article_13
+                 0.938     0.129      0.789     0.938     0.857      0.923    article_6
+Weighted Avg.    0.894     0.085      0.905     0.894     0.895      0.923
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 27  4 |  a = article_13
+  1 15 |  b = article_6
+

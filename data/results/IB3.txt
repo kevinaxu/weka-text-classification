@@ -1,0 +1,63 @@
+
+Options: -K 3 
+
+IB1 instance-based classifier
+using 3 nearest neighbour(s) for classification
+
+
+Time taken to build model: 0.07 seconds
+Time taken to test model on training data: 0.13 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         172               85.5721 %
+Incorrectly Classified Instances        29               14.4279 %
+Kappa statistic                          0.7118
+Mean absolute error                      0.2068
+Root mean squared error                  0.3058
+Relative absolute error                 41.369  %
+Root relative squared error             61.1553 %
+Total Number of Instances              201     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.743     0.03       0.962     0.743     0.838      ?        article_13
+                 0.97      0.257      0.789     0.97      0.87       ?        article_6
+Weighted Avg.    0.856     0.143      0.876     0.856     0.854      0    
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 75 26 |  a = article_13
+  3 97 |  b = article_6
+
+
+=== Error on test data ===
+
+Correctly Classified Instances          36               76.5957 %
+Incorrectly Classified Instances        11               23.4043 %
+Kappa statistic                          0.5532
+Mean absolute error                      0.2449
+Root mean squared error                  0.3536
+Relative absolute error                 49.0526 %
+Root relative squared error             70.8232 %
+Total Number of Instances               47     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.645     0          1         0.645     0.784      0.991    article_13
+                 1         0.355      0.593     1         0.744      0.991    article_6
+Weighted Avg.    0.766     0.121      0.861     0.766     0.771      0.991
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 20 11 |  a = article_13
+  0 16 |  b = article_6
+
